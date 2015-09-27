@@ -11,7 +11,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head runat="server"> 
 		<meta name="vs_snapToGrid" content="True" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
 		<title>EasyQuery.NET - ad-hoc query builder for ASP.NET web-sites. Demo page.</title>
 		<meta content="C#" name="CODE_LANGUAGE" />
 		<meta content="JavaScript" name="vs_defaultClientScript" />

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EQ_WEB_TEST", "EQ_WEB_TEST\EQ_WEB_TEST.vbproj", "{102EC6C0-AFC4-45F7-9ABA-8B5A42FD5C0E}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "EQ_WEB_TEST", "EQ_WEB_TEST.vbproj", "{45445A34-5C36-4766-9371-8BFB56C6BD41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{102EC6C0-AFC4-45F7-9ABA-8B5A42FD5C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{102EC6C0-AFC4-45F7-9ABA-8B5A42FD5C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{102EC6C0-AFC4-45F7-9ABA-8B5A42FD5C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{102EC6C0-AFC4-45F7-9ABA-8B5A42FD5C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45445A34-5C36-4766-9371-8BFB56C6BD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45445A34-5C36-4766-9371-8BFB56C6BD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45445A34-5C36-4766-9371-8BFB56C6BD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45445A34-5C36-4766-9371-8BFB56C6BD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
