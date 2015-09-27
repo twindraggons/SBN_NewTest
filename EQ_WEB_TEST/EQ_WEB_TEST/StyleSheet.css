@@ -1,0 +1,111 @@
+﻿body, p, td, th, div{
+	font-family: Trebuchet MS, Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;	
+	font-size: 11px;
+}
+.bodytext{
+	font-size: 11px;
+	color: #333333;
+	}
+.header {
+	background: #FFFFFF url(images/back_header.jpg) 100% 0 no-repeat;
+	border-bottom-color: White;
+	border-bottom-style: double;
+	border-bottom-width: 3px;
+	border-right-color: White;
+	border-right-style: double;
+	border-right-width: 3px;
+	border-top-color: #c2c2c2;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-left-color: #c2c2c2;
+	border-left-style: solid;
+	border-left-width: 1px;
+}
+.title0 {
+	font-family: Trebuchet MS, Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #6d7785;
+	padding-top: 2px;
+	padding-bottom:4px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.title1 {
+	font-family: Trebuchet MS, Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFFFFF;
+	padding: 3 0 0 10;
+	background: url(images/corner.gif) 140px 0 no-repeat;	
+}
+.title2 {
+	font-family: Trebuchet MS, Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	padding: 3 10 3 10;
+}
+.subTitle {
+	font-family: Trebuchet MS, Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #6d7785;	
+	padding-top: 2px;
+	padding-bottom:4px;
+	margin-top:0px;
+	margin-bottom:0px;
+}
+.border_blue {
+	background-color: #4b9edc;
+}
+.back_blue {
+	background: #FFFFFF url(images/back_blue.jpg) 100% 0 repeat-y;
+}
+.th {
+	font-family: Trebuchet MS, Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FFFFFF;		
+}
+.powered {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color:#f0f0f0; 
+	text-align:right;
+	font-size: 10px;
+	font-weight: bold;
+	color: #333333;
+	padding: 2 0 2 0; 
+}
+.addnew {
+	font-size: 11px;
+	font-weight: bold;
+	color: #669900;	
+	padding: 5 0 10 10;
+}
+.addnew a{
+	color: #669900;	
+}
+input {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	padding: 2 0 2 0 ;
+}
+textarea {
+	font-family: Verdana, "Courier New", Geneva, Arial, Helvetica,  sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+.btn {
+	background: url(images/back_btn.gif) 0 50% repeat-x;
+	width: 70px;
+}
+.box {
+	background-color:#ffffff; 
+	width:100%; 
+	height:150px; 
+	overflow: scroll; 
+	border: solid 1px #cccccc;
+	background: url(images/watermark.gif) 0 0 repeat;	
+}
